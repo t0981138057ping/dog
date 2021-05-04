@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Nelson Bighetti
+標題：鈺萍
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+角色：學生
 
 # Organizations/Affiliations
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+個人簡介：開始學習新知，接受新訊息是我的樂趣!
 
 #interests:
 #- Artificial Intelligence
